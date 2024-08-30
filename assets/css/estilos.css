@@ -30,6 +30,18 @@ body {
   height: auto; 
 }
 
+.banana {
+  position: fixed;
+  bottom: 10px;
+  left: 30%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  width: 100px; 
+  height: auto; 
+}
+
+
+
 /* Hero Section */
 
 #Hero-Section {
