@@ -40,6 +40,16 @@ body {
   height: auto; 
 }
 
+.travolta {
+  position: fixed;
+  bottom: 10px;
+  left: 70%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  width: 200px; 
+  height: auto; 
+}
+
 
 
 /* Hero Section */
