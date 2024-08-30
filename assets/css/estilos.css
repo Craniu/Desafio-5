@@ -12,6 +12,15 @@ body {
     height: auto; 
 }
 
+.lisa {
+  position: fixed; 
+  top: 20px; 
+  right: 20px;
+  z-index: 9999; 
+  width: 100px; 
+  height: auto; 
+}
+
 /* Hero Section */
 
 #Hero-Section {
